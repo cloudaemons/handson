@@ -1,0 +1,8 @@
+.idea/*
+webapp
+api-gateway
+dynamodb
+elastic-beanstalk
+iam
+lambda
+vpc
